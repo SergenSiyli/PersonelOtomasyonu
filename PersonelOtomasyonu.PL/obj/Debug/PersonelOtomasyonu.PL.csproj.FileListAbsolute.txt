@@ -1,0 +1,36 @@
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.PL.exe.config
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.PL.exe
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.PL.pdb
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.csprojResolveAssemblyReference.cache
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.Form1.resources
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.Properties.Resources.resources
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.csproj.GenerateResource.Cache
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.exe
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.pdb
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.KullaniciGirisi.resources
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\EntityFramework.dll
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.BLL.dll
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.DAL.dll
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.BLL.pdb
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.DAL.pdb
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\EntityFramework.xml
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.PL.exe.config
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.exe
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.pdb
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.PL.exe
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.PL.pdb
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\EntityFramework.dll
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.BLL.dll
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.DAL.dll
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.BLL.pdb
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\PersonelOtomasyonu.DAL.pdb
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\EntityFramework.xml
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.csprojResolveAssemblyReference.cache
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.Form1.resources
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.KullaniciGirisi.resources
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.Properties.Resources.resources
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.PL\obj\Debug\PersonelOtomasyonu.PL.csproj.GenerateResource.Cache

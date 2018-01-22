@@ -1,0 +1,20 @@
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\PersonelOtomasyonu.DAL.dll
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\PersonelOtomasyonu.DAL.pdb
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.DAL\obj\Debug\PersonelOtomasyonu.DAL.csprojResolveAssemblyReference.cache
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.DAL\obj\Debug\PersonelOtomasyonu.DAL.dll
+c:\users\sergen\documents\visual studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.DAL\obj\Debug\PersonelOtomasyonu.DAL.pdb
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\PersonelOtomasyonu.DAL.dll.config
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\EntityFramework.dll
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\EntityFramework.xml
+c:\Users\SERGEN\Documents\Visual Studio 2015\Projects\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\PersonelOtomasyonu.DAL.dll.config
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\PersonelOtomasyonu.DAL.dll
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\PersonelOtomasyonu.DAL.pdb
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\EntityFramework.dll
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\EntityFramework.xml
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.DAL\obj\Debug\PersonelOtomasyonu.DAL.csprojResolveAssemblyReference.cache
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.DAL\obj\Debug\PersonelOtomasyonu.DAL.dll
+C:\Users\SERGEN\Desktop\PersonelOtomasyonu\PersonelOtomasyonu.DAL\obj\Debug\PersonelOtomasyonu.DAL.pdb

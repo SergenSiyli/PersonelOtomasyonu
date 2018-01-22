@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PersonelBilgisiModelStoreContainer" CdmEntityContainer="PersonelBilgisiEntities">
+    <EntitySetMapping Name="KullanıcıAdı">
+      <EntityTypeMapping TypeName="PersonelBilgisiModel.KullanıcıAdı">
+        <MappingFragment StoreEntitySet="KullanıcıAdı">
+          <ScalarProperty Name="KullaniciId" ColumnName="KullaniciId" />
+          <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
+          <ScalarProperty Name="KullaniciSifresi" ColumnName="KullaniciSifresi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personellers">
+      <EntityTypeMapping TypeName="PersonelBilgisiModel.Personeller">
+        <MappingFragment StoreEntitySet="Personeller">
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="PersonelAdi" ColumnName="PersonelAdi" />
+          <ScalarProperty Name="PersonelSoyadi" ColumnName="PersonelSoyadi" />
+          <ScalarProperty Name="DogumTarihi" ColumnName="DogumTarihi" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="MailAdresi" ColumnName="MailAdresi" />
+          <ScalarProperty Name="EvAdresi" ColumnName="EvAdresi" />
+          <ScalarProperty Name="İseGirisTarihi" ColumnName="İseGirisTarihi" />
+          <ScalarProperty Name="Unvan" ColumnName="Unvan" />
+          <ScalarProperty Name="Fotografi" ColumnName="Fotografi" />
+          <ScalarProperty Name="TcNO" ColumnName="TcNO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
